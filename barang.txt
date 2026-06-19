@@ -1,0 +1,5 @@
+Laptop ASUS,8500000.0,4
+Mouse Wireless,150000.0,15
+Keyboard Mech,450000.0,8
+Monitor 24 Inch,1750000.0,3
+Printer Inkjet,1200000.0,5
